@@ -1,4 +1,4 @@
-## SOlVE N Queens
+## SOLVE N Queens
 
 - Put N queens into a board (NxN) - N queens cannot attack each other.
 - List out all solutions
